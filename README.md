@@ -7,4 +7,4 @@
 Evolution of Simple game called Geometry Techno Meteor Storm (GTMS), coded in C++ & SFML.
 This is the final version of GTMS, all bugs are removed so I think it's time to close project.
 
-Geometry Techno Meteor Storm is under license CC BY 4.0 ( https://creativecommons.org/licenses/by/4.0/ ).
+Copyright 2016 mrtycjan
